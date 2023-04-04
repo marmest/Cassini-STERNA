@@ -1,23 +1,23 @@
 <h1>STERNA</h1>
-<h1>Challenge 1 - Enabling cross-terrain mobility</h1>
+<h2>Challenge 1 - Enabling cross-terrain mobility</h2>
 
 Sterna is a technology company that uses Copernicus, Galileo, and EGNOS data to classify terrain availability on land borders where immigrants can cross. The solution provides simple and easy-to-use software to border control agencies and other relevant organizations, allowing them to prevent illegal border crossings more effectively. The solution has significant potential in the European Union, where illegal immigration is a major challenge for many member states.
 
 
 
-<h1>Problem</h1>
+<h2>Problem</h2>
 
 Illegal immigration is a significant problem for many countries in the European Union. Illegal border crossings can be a threat to national security, public health, and public safety. Meanwhile, monitoring borders can be a challenging task, particularly when it comes to identifying critical points where illegal border crossings are most likely to occur. Today, many different technologies are used to monitor borders, such as video surveillance, motion-detecting cameras, drones, and helicopters. However, those are not always efficient enough, as illegal immigrants can often find ways to bypass these measures. Sterna’s main goal is to improve and optimize the usage of the aforementioned technologies.
 
 
 
-<h1>Solution</h1>
+<h2>Solution</h2>
 
 Sterna will use data from Copernicus, Galileo, and EGNOS, Earth observation programs developed by the European Space Agency (ESA), to identify available terrain on borders where immigrants can cross. We will leverage the data to create a heatmap of the border area, identifying areas where illegal border crossings are likely to occur, based on terrain availability. This information will be used to inform border control agencies and other relevant organizations in the European Union, allowing them to allocate resources more effectively and prevent illegal border crossings. The software will also suggest alternative paths immigrants can take using the heatmap. Data, such as elevation, type of land, and similar, will be used to classify terrain availability and consequently create a heatmap that will correspond with terrain availability
 
 
 
-<h1>Target Market</h1>
+<h2>Target Market</h2>
 
 The primary target market for Sterna will be government agencies responsible for border control and immigration management in the European Union. These agencies may include: 
 
@@ -31,13 +31,13 @@ The primary target market for Sterna will be government agencies responsible for
 
 
 
-<h1>Marketing Strategy</h1>
+<h2>Marketing Strategy</h2>
 
 Sterna will use a targeted marketing strategy, focusing on government agencies responsible for border control and immigration management in the European Union. The company will attend industry conferences, participate in trade shows, and engage in targeted digital marketing campaigns to reach potential customers.
 
 
 
-<h1>Team</h1>
+<h2>Team</h2>
 
 Luka Meštrović
 

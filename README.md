@@ -62,7 +62,3 @@ I am in my freshman year of college, studying software engineering at the Facult
 Maria Mesarić
 
 I finished Economics and Management in Zagreb but since last year, I am transferring to IT. Next week I am finishing a 5-month incubator program for developers and I hope to continue my career in IT. I also love participating in competitions because of the amazing ideas and teamwork.
-
-
-
-Link to the code - https://github.com/marmest/Cassini-STERNA
